@@ -1,10 +1,10 @@
-# sass-ems
+# sass-rems
 
-A SASS function for converting `px` to `em`.
+A SASS function for converting `px` to `rem`.
 
 ## Installation
 
-    npm install --save sass-ems
+    npm install --save sass-rems
     
 ## Usage
 
@@ -19,24 +19,24 @@ SCSS: `example/settings.scss`
 SCSS: `example/example.scss`
     
     @import "./settings";
-    @import "sass-ems";
+    @import "sass-rems";
 
     h1 {
-      padding: em(15px);
-      font-size: em(24px);
+      padding: rem(15px);
+      font-size: rem(24px);
     }
 
 CSS: `compiled.css`
 
     h1 {
-      padding: 0.9375em;
-      font-size: 1.5em; }
+      padding: 0.9375rem;
+      font-size: 1.5rem; }
 
 ## API
 
-### em($val, $ctx: $base-font-size)
+### rem($val, $ctx: $base-font-size)
 
-Convert a `px` value to `em`.
+Convert a `px` value to `rem`.
 
 ## License
 
