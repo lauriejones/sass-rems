@@ -1,5 +1,5 @@
 {
-  "name": "sass-ems",
-  "description": "A SASS function for converting px to em.",
-  "tags": ["em", "pxtoem", "pixel", "font", "size", "sass", "libsass", "scss", "style", "sass-composer"]
+  "name": "sass-rems",
+  "description": "A SASS function for converting px to rem.",
+  "tags": ["rem", "pxtorem", "pixel", "font", "size", "sass", "libsass", "scss", "style", "sass-composer"]
 }

@@ -1,15 +1,15 @@
 {
-  "name": "sass-ems",
-  "version": "1.0.3",
-  "author": "James Newell <james@digitaledgeit.com.au>",
-  "keywords": ["em", "pxtoem", "sass-em", "pixel", "px", "font", "size", "sass", "libsass", "scss", "style", "sass-composer"],
-  "description": "A SASS function for converting px to em.",
+  "name": "sass-rems",
+  "version": "1.0.0",
+  "author": "James Newell <james@digitaledgeit.com.au>, Laurie Jones <hello@lauriejones.me>",
+  "keywords": ["rem", "pxtorem", "sass-rem", "pixel", "px", "font", "size", "sass", "libsass", "scss", "style", "sass-composer"],
+  "description": "A SASS function for converting px to rem.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/digitaledgeit/sass-ems.git"
+    "url": "git://github.com/lauriejones/sass-rems.git"
   },
   "bugs": {
-    "url": "https://github.com/digitaledgeit/sass-ems/issues"
+    "url": "https://github.com/lauriejones/sass-rems/issues"
   },
   "license": "MIT"
 }
