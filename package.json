@@ -4,6 +4,7 @@
   "author": "James Newell <james@digitaledgeit.com.au>, Laurie Jones <hello@lauriejones.me>",
   "keywords": ["rem", "pxtorem", "sass-rem", "pixel", "px", "font", "size", "sass", "libsass", "scss", "style", "sass-composer"],
   "description": "A SASS function for converting px to rem.",
+  "main": "index.scss",
   "repository": {
     "type": "git",
     "url": "git://github.com/lauriejones/sass-rems.git"
